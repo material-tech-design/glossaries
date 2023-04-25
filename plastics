@@ -4,8 +4,9 @@ Acrylic or Polymethyl Methacrylate (PMMA)
 Acrylonitrile-Butadiene-Styrene (ABS)
 /* Created by polymerizing styrene and acrylonitrile in the presence of polybutadiene, ABS is robust, flexible, glossy, highly processable, and impact resistant. It can be manufactured in a range of thicknesses from 200 microns to 5mm with a maximum width of 1600mm.
 
-Bioplastics
-/* Plastic materials produced from renewable biomass sources, such as vegetable fats and oils, corn starch, straw, woodchips, sawdust and recycled food waste.
+Bio-based plastics, or biodegradable plastics
+/* Bio-based plastics are polymeric materials entirely or partially produced from biomass resources irrespective of their end-of-life fate or management and whether they were organically farmed. If the material is not 100% bio-based, the actual percentage has to be prefixed (e.g. “30% bio-based plastic”).
+   Aubin, S. et al. (2022) “Plastics in a circular economy: Mitigating the ambiguity of widely-used terms from stakeholders consultation,” Environmental Science & Policy, 134, pp. 119–126. Available at: https://doi.org/10.1016/j.envsci.2022.04.011. 
 
 PLA
 /* Polylactic acid. PLA has become a popular material due to it being economically produced from renewable resources. In 2021, PLA had the highest consumption volume of any bioplastic of the world.
