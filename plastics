@@ -1,3 +1,4 @@
+---Definiations---
 Bio-based plastics 
 /* Bio-based plastics are polymeric materials entirely or partially produced from biomass resources irrespective of their end-of-life fate or management and whether they were organically farmed. If the material is not 100% bio-based, the actual percentage has to be prefixed (e.g. “30% bio-based plastic”).
    Aubin, S. et al. (2022) “Plastics in a circular economy: Mitigating the ambiguity of widely-used terms from stakeholders consultation,” Environmental Science & Policy, 134, pp. 119–126. Available at: https://doi.org/10.1016/j.envsci.2022.04.011. 
@@ -15,8 +16,21 @@ Plastics recycling
    Aubin, S. et al. (2022) “Plastics in a circular economy: Mitigating the ambiguity of widely-used terms from stakeholders consultation,” Environmental Science & Policy, 134, pp. 119–126. Available at: https://doi.org/10.1016/j.envsci.2022.04.011. 
 
 
-Bio-based bioplastic
-Bio-based PE, PET, PA, PTT, bio-PP
+---Bio-based bioplastic---
+Bio-based PE
+/* Biopolyethylene is polyethylene made out of ethanol, which becomes ethylene after a dehydration process. It can be made from various feedstocks including sugar cane, sugar beet, and wheat grain.
+
+Bio-based PP
+/* Bio-Based Polypropylene is a polymer manufactured from natural materials such as corn, sugar cane, vegetable oil, and some other biomass. The properties of bio based polypropylene are similar to synthetic polypropylene. 
+
+Polyethylene Terephthalate (PETE or PET)
+/*The most common thermoplastic resin of the polyester family, PET is the fourth-most produced synthetic plastic. Polyethylene Terephthalate has excellent chemical resistance to organic materials and water and is easily recyclable.
+
+Polyamide/Nylon (PA)
+/* Biobased polyamides are a new class of bioplastics that are derived from renewable resources such as natural fats and oils.
+
+PTT
+/* Polytrimethylene terephthalate is one of the most important commercial polyester. It is a semi-aromatic, semicrystalline thermoplastic that can be easily molded, thermoformed and spun into fibers. It has mechanical and thermophysical properties similar to polyethylene terephthalte (PET).
 
 Bio-based and biodegradable bioplastic
 PHA, PBS, PHN, PGA, starch blends
@@ -24,10 +38,10 @@ PLA
 /* Polylactic acid. PLA has become a popular material due to it being economically produced from renewable resources. In 2021, PLA had the highest consumption volume of any bioplastic of the world.
 
 
-Biodegradable bioplastic
+---Biodegradable bioplastic---
 PBAT, PCL, PBS, PVOH, PVA
 
-Conventional plastics
+--Conventional plastics--
 PS, 
 Polyethylene (PE)
 /* The most common plastic on earth, polyethylene can be manufactured in varying densities. Each different density of polyethylene gives the final plastic unique physical properties. As a result, polyethylene is in a wide variety of products.
@@ -44,16 +58,11 @@ Polyethylene (PE)
   Ultra High Molecular Weight Polyethylene (UHMWPE)
   /* UHMWPE is not much denser than HDPE. Compared to HDPE, this polyethylene plastic much more abrasion resistant due to the extreme length of its polymer chains. Possessing high density and low friction properties, UHMWPE is in military body armor, hydraulic seals and bearings, biomaterial for hip, knee, and spine implants, and artificial ice skating rinks.
 
-Polyethylene Terephthalate (PETE or PET)
-/*The most common thermoplastic resin of the polyester family, PET is the fourth-most produced synthetic plastic. Polyethylene Terephthalate has excellent chemical resistance to organic materials and water and is easily recyclable.
-
 Polypropylene (PP)
 /* This plastic material is a thermoplastic polymer and the world’s second-most widely produced synthetic plastic. Its widespread use and popularity are undoubted because polypropylene is one of the most flexible thermoplastics on the planet. Although PP is stronger than PE, it still retains flexibility. It will not crack under repeated stress.
 
 Polyvinyl Chloride (PVC)
 /* The third-most produced synthetic plastic polymer, PVC can be manufactured to possess rigid or flexible properties. It is well-known for its ability to blend with other materials. For example, expanded PVC sheets are a foamed polyvinyl chloride material that is ideal products like kiosks, store displays, and exhibits.
-
-----edited down to here
 
 Acrylic or Polymethyl Methacrylate (PMMA)
 /* Well-known for its use in optical devices and products, acrylic is a transparent thermoplastic used as a lightweight, shatter-resistant alternative to glass.
@@ -61,8 +70,5 @@ Acrylic or Polymethyl Methacrylate (PMMA)
 Acrylonitrile-Butadiene-Styrene (ABS)
 /* Created by polymerizing styrene and acrylonitrile in the presence of polybutadiene, ABS is robust, flexible, glossy, highly processable, and impact resistant. It can be manufactured in a range of thicknesses from 200 microns to 5mm with a maximum width of 1600mm.
 
-
 Polycarbonate (PC)
 /* Tough, stable, and transparent, polycarbonate is an excellent engineering plastic that is as clear as glass and two hundred and fifty times stronger. Thirty times stronger than acrylic, clear polycarbonate sheets are also easily worked, molded, and thermo-formed or cold-formed.
-
-
