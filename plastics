@@ -32,10 +32,13 @@ Polyamide/Nylon (PA)
 PTT
 /* Polytrimethylene terephthalate is one of the most important commercial polyester. It is a semi-aromatic, semicrystalline thermoplastic that can be easily molded, thermoformed and spun into fibers. It has mechanical and thermophysical properties similar to polyethylene terephthalte (PET).
 
-Bio-based and biodegradable bioplastic
-PHA, PBS, PHN, PGA, starch blends
+---Bio-based and biodegradable bioplastic---
 PLA
 /* Polylactic acid. PLA has become a popular material due to it being economically produced from renewable resources. In 2021, PLA had the highest consumption volume of any bioplastic of the world.
+
+/*edited down to here
+PHA, PBS, PHN, PGA, starch blends
+
 
 
 ---Biodegradable bioplastic---
